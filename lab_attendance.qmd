@@ -1,0 +1,8 @@
+---
+title: "lab_attendance"
+format: html
+author: Mckenna Cooper
+editor: visual
+---
+
+\## I have learned how to create and launch a customized personal website through quarto and github
